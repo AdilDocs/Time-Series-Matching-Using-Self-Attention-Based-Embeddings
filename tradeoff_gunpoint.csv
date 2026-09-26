@@ -1,0 +1,5 @@
+dataset,d_model,final_loss,k_used,attn_acc,attn_time_s
+Gun_Point,8,0.0,1,0.9467,0.32
+Gun_Point,16,0.0,1,0.9733,0.382
+Gun_Point,32,0.29997,25,0.62,0.393
+Gun_Point,64,0.300002,7,0.6733,0.397
